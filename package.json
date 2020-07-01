@@ -1,0 +1,24 @@
+{
+  "name": "inspector-cpu-profiler",
+  "version": "1.0.0",
+  "description": "Simple libary for Node CPU Profiler using experimental Inspector module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafixer/inspector-cpu-profiler.git"
+  },
+  "keywords": [
+    "node",
+    "v8",
+    "CPU",
+    "profiler"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rafixer/inspector-cpu-profiler/issues"
+  },
+  "homepage": "https://github.com/rafixer/inspector-cpu-profiler#readme"
+}
